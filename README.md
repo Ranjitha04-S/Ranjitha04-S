@@ -59,7 +59,7 @@
 
 ## 📈 GitHub Activity Graph
 
-[![Ranjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ranjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjitha04-S&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
