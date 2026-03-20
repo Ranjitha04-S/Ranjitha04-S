@@ -10,12 +10,13 @@
 <img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 🎓 BSc Computer Science Graduate (2025)  
-💻 Aspiring Full Stack Developer  
+💻 Full Stack Developer  
+🤖 AI/ML enthusiastic
 
-- 🌱 Currently learning **DSA + Full Stack Development**
+- 🌱 Currently grinding **Leetcode problems**
 - 🚀 Building real-world projects  
 - 🎯 Goal: Product-based Software Engineer  
-- 🎨 Interested in UI/UX & responsive design  
+- 🎨 Interested in AI/ML 
 
 ---
 
@@ -28,20 +29,12 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack used
 
 ### 💻 Languages & Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=java,html,css,js,react,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
-
-### 🔧 Programming Languages
-<p>
 <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
