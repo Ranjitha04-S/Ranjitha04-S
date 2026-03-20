@@ -71,12 +71,6 @@
 
 ---
 
-## 🧩 Contribution Snake Animation
-
-![snake gif](https://github.com/Ranjitha04-S/Ranjitha04-S/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## ✨ Profile Views Counter
 
 <p align="center">
