@@ -1,61 +1,92 @@
-## Hi there 👋 It's me Ranjitha
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Ranjitha;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;DSA+Learner+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 👋 Hi there, I'm Ranjitha
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 BSc Computer Science Graduate (2025)  
 💻 Aspiring Full Stack Developer  
 
-<img align="right" width="350" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🌱 Currently learning Full Stack Development & Data Structures
-- 🚀 Building real-world projects to improve problem-solving skills
-- 🎯 Goal: To become a Software Engineer in a product-based company
-- ⚡ Strong interest in UI/UX design and responsive web development  
+- 🌱 Currently learning **DSA + Full Stack Development**
+- 🚀 Building real-world projects  
+- 🎯 Goal: Product-based Software Engineer  
+- 🎨 Interested in UI/UX & responsive design  
 
 ---
 
-### 🔗 Connect with me
-- 💼 LinkedIn: https://www.linkedin.com/in/ranjitha-s04/  
-- 📧 Email: ranjithaseenivasan2004@gmail.com  
-- 💻 LeetCode: https://leetcode.com/u/Ranjitha_S_2004/  
-
----
-
-### 💻 I code in
+## 🌐 Connect with me
 <p>
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
-<img height="50" src="https://img.icons8.com/color/48/tailwind_css.png"/>
-<img height="50" src="https://img.icons8.com/color/48/nodejs.png"/>
-<img height="50" src="https://img.icons8.com/color/48/express-js.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<a href="https://www.linkedin.com/in/ranjitha-s04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ranjithaseenivasan2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ranjitha_S_2004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🛠️ IDE and Tools
+## 🚀 Tech Stack
+
+### 💻 Languages & Frontend
 <p>
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" src="https://img.icons8.com/color/48/intellij-idea.png"/>
-<img height="50" src="https://img.icons8.com/color/48/java-eclipse.png"/>
-<img height="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" src="https://img.icons8.com/color/48/notion.png"/>
-<img height="50" src="https://img.icons8.com/color/48/netlify.png"/>
-<img height="50" src="https://img.icons8.com/color/48/vercel.png"/>
-<img height="50" src="https://img.icons8.com/color/48/firebase.png"/>
-<img height="50" src="https://img.icons8.com/color/48/render.png"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### 🔧 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Ranjitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true)
+## 🛠 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,notion,firebase,vercel,netlify" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
 ---
 
-### 🔥 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ranjitha_S_2004?theme=dark)](https://leetcode.com/u/Ranjitha_S_2004/)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Ranjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧠 LeetCode Dashboard (Kanban Style)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ranjitha_S_2004?ext=heatmap&theme=dark"/>
+</p>
+
+---
+
+## 🧩 Contribution Snake Animation
+
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
