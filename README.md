@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjitha04-S&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=Ranjitha04-S&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,13 +73,13 @@
 
 ## 🧩 Contribution Snake Animation
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ranjitha04-S/Ranjitha04-S/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## ✨ Profile Views Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ranjitha04-S&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
