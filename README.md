@@ -1,209 +1,77 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B%20It's%20me%20Ranjitha&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Java%20%7C%20BSc%20CS%202025&descAlignY=58&descSize=16" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,50:301E67,100:5B8FB9&height=250&section=header&text=Ranjitha%20S&fontSize=70&fontColor=BC96E6&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20✦%20MERN%20%2B%20Java%20✦%20BSc%20CS%202025%20✦&descAlignY=62&descSize=16&descColor=8BE8E5&animation=fadeIn" />
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-</div>
+- 🎓 &nbsp; **BSc Computer Science** — 2025 Graduate
+- 💻 &nbsp; I code in **Java** and love the **MERN Stack**
+- 🌱 &nbsp; Currently learning **DSA** and **System Design**
+- 🧩 &nbsp; Solving problems daily on **LeetCode**
+- ✨ &nbsp; Fun fact: I'm multi-talented — I try **everything** at least once 😄
+- 🤝 &nbsp; Open to **internships** and **collaborations**
+- 📫 &nbsp; Reach me at **your-email@gmail.com**
 
-<br/>
+**Social Presence**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=24&duration=3000&pause=800&color=BC96E6&center=true&vCenter=true&multiline=false&width=700&lines=Welcome+to+my+little+corner+of+the+internet+✨;I+build+things+with+Java+%26+the+MERN+stack+🛠️;Fresh+graduate+%7C+Big+dreams+%7C+Bigger+code+🚀;Multi-talented+human+%7C+Always+exploring+🌸;Open+to+work+%7C+Let%27s+build+something+great!" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-## 🌸 &nbsp; About Me
-
-<br/>
-
-🎓 &nbsp; **BSc Computer Science** — Class of 2025 &nbsp;
-
-🌱 &nbsp; Currently learning **DSA** and **System Design**
-
-💻 &nbsp; I speak fluent **Java** and think in **JavaScript**
-
-🌊 &nbsp; Building full-stack apps with the **MERN Stack**
-
-🧩 &nbsp; Sharpening problem-solving on **LeetCode** daily
-
-✨ &nbsp; Multi-talented — art, tech & more — I try **everything**
-
-🤝 &nbsp; Open to **internships**, **collabs** & **entry-level roles**
-
-📍 &nbsp; Based in **Tamil Nadu, India**
-
-<br/>
-
-```java
-class Ranjitha extends Developer {
-
-    final String[] stack    = { "Java", "React", "Node.js", "MongoDB" };
-    final String[] learning = { "DSA", "System Design", "Cloud" };
-    final String superpower = "turning ☕ into working code";
-    final boolean available = true;  // yes, hire me 🙋‍♀️
-
-    String introduce() {
-        return "I don't just write code — I craft experiences.";
-    }
-}
-```
-
-<br clear="right"/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ranjitha-s04/)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/Ranjitha_S_2004/)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
 
 ---
 
-<br/>
+### I code in
 
-## 🛸 &nbsp; Tech Universe
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&theme=dark&perline=6" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📊 &nbsp; GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjitha04-S&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=03001C&title_color=BC96E6&icon_color=8BE8E5&text_color=C8B8DB&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjitha04-S&theme=midnight-purple&hide_border=true&background=03001C&ring=BC96E6&fire=FF9F45&currStreakLabel=BC96E6&sideLabels=8BE8E5&dates=C8B8DB" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjitha04-S&layout=donut&theme=midnight-purple&hide_border=true&bg_color=03001C&title_color=BC96E6&text_color=C8B8DB" width="38%" />
-
-</div>
-
-<br/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/express-js.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" />
 
 ---
 
-<br/>
+### IDE and Tools I Use
 
-## 🧩 &nbsp; LeetCode
-
-<br/>
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ranjitha_S_2004?theme=dark&font=Josefin+Sans&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/Ranjitha_S_2004/)
-
-</div>
-
-<br/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" />
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
+<img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
 ---
 
-<br/>
+### 📊 GitHub Stats
 
-## 🏆 &nbsp; Trophies
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ranjitha04-S&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<br/>
+![Ranjitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjitha04-S&theme=tokyonight&show_icons=true&hide=issues,contribs&count_private=true&hide_border=true)
 
 ---
 
-<br/>
+### 🧩 LeetCode Stats
 
-## 🌊 &nbsp; Contribution Graph
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjitha04-S&bg_color=03001C&color=BC96E6&line=8BE8E5&point=FF9F45&area_color=BC96E6&area=true&hide_border=true&custom_title=Ranjitha%27s%20Contribution%20Graph)](https://github.com/Ranjitha04-S)
-
-</div>
-
-<br/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ranjitha_S_2004?ext=heatmap&theme=dark)](https://leetcode.com/u/Ranjitha_S_2004/)
 
 ---
 
-<br/>
+### 🌊 Contribution Graph
 
-## ✨ &nbsp; My Vibe
-
-<br/>
-
-<div align="center">
-
-| 💜 | I write code like I write stories — with intention |
-|:---:|:---|
-| 🌱 | Every bug is just a plot twist I haven't solved yet |
-| 🚀 | Fresher in title, senior in mindset |
-| 🎨 | Tech is my canvas, code is my brush |
-| 🌸 | Multi-talented: if it exists, I've tried it at least once |
-
-</div>
-
-<br/>
+[![Ranjitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjitha04-S&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/Ranjitha04-S)
 
 ---
 
-<br/>
+### 🏆 GitHub Trophies
 
-## 🌐 &nbsp; Find Me Here
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjitha-s04/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ranjitha_S_2004/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ranjitha04-S)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
-<br/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ranjitha04-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
 ---
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=18&duration=4000&pause=500&color=8BE8E5&center=true&vCenter=true&width=600&lines=%22Code+is+not+just+logic+—+it%27s+a+form+of+art.%22;%22Every+expert+was+once+a+beginner.%22;%22Build+it.+Break+it.+Learn+it.+Repeat.%22" alt="Quote" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=628FDB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let%27s+connect+and+build+together+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%92%BC" alt="footer typing" />
 
 ![Snake animation](https://github.com/Ranjitha04-S/Ranjitha04-S/blob/output/github-contribution-grid-snake-dark.svg)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ranjitha04-S&label=Profile+Views&color=BC96E6&style=flat-square&labelColor=03001C" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,50:301E67,100:5B8FB9&height=130&section=footer&fontColor=BC96E6" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
